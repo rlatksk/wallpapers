@@ -1,7 +1,0 @@
-fastfetch
-fish
-hypr
-kitty
-quickshell
-session
-wlogout
